@@ -49,6 +49,8 @@ Hierarchical clustering
 
 
 
+--------------------------------------------------------------------------------------------
+14/20
 
 SVM will not perform well with large data set because (select the best answer)
 
