@@ -1,0 +1,242 @@
+Prints all vowels
+
+>>>Prints all characters that are not vowels
+
+Prints all characters
+
+Prints nothing
+
+
+A list of None's
+
+>>>A list of Trues
+
+None of the options
+
+A list of Falses
+
+
+Return value must be specified explicitly
+
+Parameter list
+
+Function name
+
+>>>Function name and parameter list
+
+
+Which of the following exception occurs, when an integer object is added to a string object?
+
+>>>TypeError
+
+
+
+Which of the following exception occurs, when a number is divided by zero?
+
+ArithmeticError
+
+DivisionError
+
+NonDivisibleError
+
+>>>ZeroDivisionError
+
+
+
+The output of the expression '2' == 2 is _________.
+
+>>>False
+
+
+
+When will the else part of try-except-else be executed?
+
+>>>When no exception occurs
+
+
+If a list has 5 elements, then which of the following exceptions is raised when 8th element is accessed?
+
+>>>IndexError
+
+
+
+In which of the following scenarios, finally block is executed?
+
+x Only when there is no exception
+
+>>>Always
+
+Never
+
+x Only when there is an exception
+
+
+Can one block of except statements handle multiple exception?
+
+x Yes, like except ( NameError, SyntaxError, ...)
+
+x No, multiple exceptions cannot be handled in a single block.
+
+x Yes, like except [ NameError, SyntaxError, ...]
+
+ Yes, like except NameError, SyntaxError, ...
+
+
+How many except statements can a try-except block have?
+
+Zero
+
+One
+
+>>>More than zero
+
+x More than one
+
+
+Which of the keyword is used to display a customised error message to the user?
+
+x error
+
+x yield
+
+>>> raise
+
+x except
+
+
+Which of the following execption occurs, when an undefined object is accessed?
+
+x UndefinedError
+
+x NonObjectError
+
+>>>NameError
+
+VariableError
+
+
+Which of the following expression can be used to check if the file 'C:\Sample.txt' exists and is also a regular file?
+
+>>>os.path.isfile(C:\Sample.txt)
+
+os.path.exists(C:\Sample.txt)
+
+os.isFile(C:\Sample.txt)
+
+os.path.isFile(C:\Sample.txt)
+
+
+Which of the following modules are used to deal with Data compression and archiving?
+
+>>>All of those mentioned
+
+
+Which of the following statement retreives names of all builtin module names?
+
+>>>import sys; sys.builtin_module_names
+
+import builtins; builtins.builtins_names
+
+import sys; sys.builtins_names
+
+import builtins; builtins.module_names
+
+
+Which of the following is not a way to import the module 'm1' or the functions 'f1' and 'f2' defined in it?
+
+from m1 import *
+
+>>>import f1, f2 from m1
+
+
+Which of the following statement retreives names of all builtin objects?
+
+x import sys; sys.builtins.dict.keys()
+
+import builtins; builtins.builtins_names
+
+import sys; sys.builtins_names
+
+>>>import builtins; builtins.dict.keys()
+
+
+In Python, which of the following files is mandatory to treat a folder as a package?
+
+init.py
+
+>>> bolt init.py
+
+main.py
+
+main.py
+
+
+Which of the following methods of 'random' module is used to pick a single element, randomly, from a given list of elements?
+
+choice
+
+x sample
+
+
+Which of the following module is not used for parsing command line arguments automatically?
+
+optparse
+
+>>> cmdparse
+
+x getopt
+
+
+
+pip  
+
+
+
+Any Python Script can act like a Module.
+
+true
+
+
+Which of the following keyword is necessary for defining a generator function?
+
+yield
+
+
+Which of the following variables stores documentation of a function?
+
+doc
+
+docstr
+
+docstr
+
+bolt doc
+
+
+How are variable length non-keyword arguments specified in the function heading?
+
+Two stars followed by a valid identifier
+
+One star followed by a valid identifier
+
+Two underscores followed by a valid identifier
+
+
+Which methods are invoked on entering into and exiting from the block of code written in 'with' statement?
+
+enter, quit
+
+__enter__, __quit__
+
+enter, exit
+
+__enter__, __exit__
+
+
+Which of the following method is used by a user defined class to support '+' operator?
+
+add
+
+plus
+
+__add__
